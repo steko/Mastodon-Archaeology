@@ -1,89 +1,89 @@
 account,name,link,keywords,language
--,Academic Journals,,,
-@aap_saaorg@fediscience.org,Advances in Archaeological Practice,https://fediscience.org/@aap_saaorg,Academic_Journal  ,English  
--,Organisations,,  ,  
+-,Academic Journals
+@aap_saaorg@fediscience.org,Advances in Archaeological Practice,https://fediscience.org/@aap_saaorg,Academic_Journal,English
+-,Organisations
 @caanlfl@akademienl.social,CAA Netherlands - Flanders,https://akademienl.social/@caanlfl,Organisation Computer_Applications Quantitative_Methods,Dutch Flemish English
--,Cultural Resource Management & Heritage Groups,,  ,  
-@mooregroup@mastodon.social,Moore Group,https://mastodon.social/@mooregroup,CRM_Group Ireland Multidiciplinary,English  
--,Individuals,,  ,  
-@NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,Geoarchaeology Palaeoecology Peatlands,English  
-@josh@fediscience.org,Josh Wells,https://fediscience.org/@josh,Big_Data Open_Science Archaeoinformatics_Ethics,English  
-@birgittahoffmann@mastodon.social,Dr. Birgitta Hoffmann,https://mastodon.social/@birgittahoffmann,  ,  
-@anthroyeti@scicomm.xyz,Edward Gonzalez-Tennant PhD,https://scicomm.xyz/@anthroyeti,Historical_Archaeology Public_Archaeology Digital_Archaeology,English  
-@StillJustRena@mastodon.social,Dr Rena Maguire,https://mastodon.social/@StillJustRena,Iron_Age Equitation Metals,English  
-@cdwren@fediscience.org,Colin Wren,https://fediscience.org/@cdwren,Palaeolithic Agent_Based_Models GIS,English  
-@subbasegirl@qoto.org,Jessie Slater,https://qoto.org/@subbasegirl,Experimental_Archaeology Archaeometallurgy Use_of_Space,English  
-@geoffreymsmith@mstdn.science,Dr Geoff M. Smith,https://mstdn.science/@geoffreymsmith,Palaeolithic Neanderthal Zooarchaeology,English  
-@tess_machling@mastodonapp.uk,Tess Machling,https://mastodonapp.uk/@tess_machling,Gold Torcs Prehistory,English  
-@RebeccaGilmour@fediscience.org,Dr. Rebecca Gilmour,https://fediscience.org/@RebeccaGilmour,  ,  
-@CaraJones@mastodon.scot,Cara Jones,https://mastodon.scot/@CaraJones,  ,  
-@NatalieGBoyd@archaeo.social,Natalie Boyd,https://archaeo.social/@NatalieGBoyd,Near_East Iron_Age Ivory,English   
-@benmarwick@mastodon.social,Ben Marwick,https://mastodon.social/@benmarwick,  ,  
-@drsueoosthuizen@mastodon.social,Prof Susan Oosthuizen,https://mastodon.social/@drsueoosthuizen,  ,  
-@ethan@scholar.social,Ethan Watrall,https://scholar.social/@ethan,  ,  
-@ekansa@scholar.social,Eric Kansa,https://scholar.social/@ekansa,Data_Management Scholarly_Com Digital_Humanities,English   
-@strabert@toot.community,Sarah Trabert,https://toot.community/@strabert,  ,  
-@fiftysitesbook@mastodon.social,Kenny Feder,https://mastodon.social/@fiftysitesbook,  ,  
-@clmorgan@mastodon.xyz,Colleen Morgan,https://mastodon.xyz/web/@clmorgan,  ,  
-@RonaldVisser@akademienl.social,Ronald Visser,https://akademienl.social/@RonaldVisser,  ,  
-@CJFrieman@aus.social,Catherine Frieman,https://aus.social/@CJFrieman,  ,  
-@Kayt_MB@mastodonapp.uk,Kayt Hawkins,https://mastodonapp.uk/@Kayt_MB,  ,  
-@toothFAIRy@scholar.social,Esther Plomp,https://scholar.social/@toothFAIRy,  ,  
-@archaeorowe@mastodonapp.uk,Jack Rowe,https://mastodonapp.uk/@Archaeorowe,  ,  
-@laraband@mas.to,Lara Band,https://mas.to/@laraband,  ,  
-@BlckheathHopper@mastodon.scot,Jeremy Huggett,https://mastodon.scot/@BlckheathHopper,  ,  
-@UllaMR@mastodon.social,Ulla Rajala,https://mastodon.social/@UllaMR,  ,  
-@geoffreymsmith@fediscience.org,Dr Geoff M Smith,https://fediscience.org/@geoffreymsmith,  ,  
-@GRSchug@mas.to,Gwen Robbins Schug,https://mas.to/@GRSchug,  ,  
-@EddieCStewart@mastodon.scot,Edward Stewart,https://mastodon.scot/@EddieCStewart,  ,  
-@natashareynolds@mastodon.ie,Tash Reynolds,https://mastodon.ie/@natashareynolds,  ,  
-@FlintDibble@fediscience.org,Flint Dibble,https://fediscience.org/web/@FlintDibble,  ,  
-@aidanosullivan@mastodon.ie,Aidan OSullivan,https://mastodon.ie/web/@AidanOSullivan,  ,  
-@ArchaeologyTony@c.im,Tony Howe,https://c.im/@ArchaeologyTony,  ,  
-@killgrove@mastodon.social,Kristina Killgrove,https://mastodon.social/@killgrove,  ,  
-@aejolene@octodon.social,Jolene Smith,https://octodon.social/@aejolene,  ,  
-@ArchAce@scicomm.xyz,Asa Randall,https://scicomm.xyz/web/@ArchAce,  ,  
-@jens2fo@mastodon.social,Jens Notroff,https://mastodon.social/@jens2go,  ,  
-@ajatnuvuk@fediscience.org,Anne M. Jensen,https://fediscience.org/@ajatnuvuk,  ,  
-@HannahFluck@Mas.to,Hannah Fluck,https://mas.to/@HannahFluck,  ,  
-@KCNolanINDelCo@mastodon.online,Kevin C. Nolan Ph.D.,https://mastodon.online/@KCNolanINDelCo,  ,  
-@GraveyardArch@mas.to,Robyn L,https://mas.to/@GraveyardArch,  ,  
-@andrea@mapstodon.space,Andrea Titolo,https://mapstodon.space/@andrea,  ,  
-@ladyofvix@jorts.horse,ladyofvix,https://jorts.horse/@ladyofvix,  ,  
-@JayTStock@mstdn.science,Jay T. Stock,https://mstdn.science/web/@JayTStock,  ,  
-@IainArchaeol@scholar.social,Dr Iain Davidson,https://scholar.social/@IainArchaeol,  ,  
-@ninawillburger@social.anoxinon.de,Nina Willburger,https://social.anoxinon.de/@ninawillburger,  ,  
-@chaco_arch@scholar.social,Michelle Turner,https://scholar.social/web/@chaco_arch,  ,  
-@spon@ecoevo.social,Matt Sponheimer,https://ecoevo.social/@spon,  ,  
-@ArchaeoBasti@mastodon.online,Sebastian Hageneuer,https://mastodon.online/@ArchaeoBasti,  ,  
-@catrionacooper@toot.community,Catriona Cooper,https://toot.community/web/@catrionacooper,  ,  
-@sophiekniaz@mastodon.scot,Sophie Kniaz,https://mastodon.scot/@sophiekniaz,  ,  
-@danielratcliffe@mastodon.scot,Daniel Ratcliffe,https://mastodon.scot/@danielratcliffe,  ,  
-@diffendale@scholar.social,Dan Diffendale,https://scholar.social/web/@diffendale,  ,  
-@joeroe@archaeo.social,Joe Roe,https://archaeo.social/@joeroe,  ,  
-@fabienbp@sciences.re,FabienBP,https://social.sciences.re/web/@fabienbp,  ,  
-@archae_delle@c.im,Adelle Bricking,https://c.im/@archae_delle,  ,  
-@Cmount@madtodon.ie,Charles Mount,https://mastodon.ie/@Cmount,  ,  
-@zackbatist@scholar.social,Zack Batist,https://scholar.social/@zackbatist,  ,  
-@mikeheyworth@mastodon.me.uk,Mike Heyworth,https://mastodon.me.uk/web/@mikeheyworth,  ,  
-@anarchaeologe@mastodon.social,Attila Stardust,https://mastodon.social/@anarchaeologe,  ,  
-@Stylisharchaeologist,Andy Ward,https://mastodon.online/@Stylisharchaeologist,  ,  
-@hluhman@toot.community,Dr. Hope Luhman,https://toot.community/@hluhman,  ,  
-@electricarchaeo@scholar.social,Shawn Graham,https://scholar.social/web/@electricarchaeo,  ,  
-@darrellRohl@scholar.social,Darrell Rohl,https://scholar.social/@darrellrohl,  ,  
-@NeilJackman@mastodon.ie,Neil Jackman,https://mastodon.ie/web/@NeilJackman,  ,  
-@jjconeill@mastodon.ie,John,https://mastodon.ie/@jjconeill,  ,  
+-,Cultural Resource Management & Heritage Groups
+@mooregroup@mastodon.social,Moore Group,https://mastodon.social/@mooregroup,CRM_Group Ireland Multidiciplinary,English
+-,Individuals
+@NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,Geoarchaeology Palaeoecology Peatlands,English
+@josh@fediscience.org,Josh Wells,https://fediscience.org/@josh,Big_Data Open_Science Archaeoinformatics_Ethics,English
+@birgittahoffmann@mastodon.social,Dr. Birgitta Hoffmann,https://mastodon.social/@birgittahoffmann
+@anthroyeti@scicomm.xyz,Edward Gonzalez-Tennant PhD,https://scicomm.xyz/@anthroyeti,Historical_Archaeology Public_Archaeology Digital_Archaeology,English
+@StillJustRena@mastodon.social,Dr Rena Maguire,https://mastodon.social/@StillJustRena,Iron_Age Equitation Metals,English
+@cdwren@fediscience.org,Colin Wren,https://fediscience.org/@cdwren,Palaeolithic Agent_Based_Models GIS,English
+@subbasegirl@qoto.org,Jessie Slater,https://qoto.org/@subbasegirl,Experimental_Archaeology Archaeometallurgy Use_of_Space,English
+@geoffreymsmith@mstdn.science,Dr Geoff M. Smith,https://mstdn.science/@geoffreymsmith,Palaeolithic Neanderthal Zooarchaeology,English
+@tess_machling@mastodonapp.uk,Tess Machling,https://mastodonapp.uk/@tess_machling,Gold Torcs Prehistory,English
+@RebeccaGilmour@fediscience.org,Dr. Rebecca Gilmour,https://fediscience.org/@RebeccaGilmour
+@CaraJones@mastodon.scot,Cara Jones,https://mastodon.scot/@CaraJones
+@NatalieGBoyd@archaeo.social,Natalie Boyd,https://archaeo.social/@NatalieGBoyd,Near_East Iron_Age Ivory,English 
+@benmarwick@mastodon.social,Ben Marwick,https://mastodon.social/@benmarwick
+@drsueoosthuizen@mastodon.social,Prof Susan Oosthuizen,https://mastodon.social/@drsueoosthuizen
+@ethan@scholar.social,Ethan Watrall,https://scholar.social/@ethan
+@ekansa@scholar.social,Eric Kansa,https://scholar.social/@ekansa,Data_Management Scholarly_Com Digital_Humanities,English 
+@strabert@toot.community,Sarah Trabert,https://toot.community/@strabert
+@fiftysitesbook@mastodon.social,Kenny Feder,https://mastodon.social/@fiftysitesbook
+@clmorgan@mastodon.xyz,Colleen Morgan,https://mastodon.xyz/web/@clmorgan
+@RonaldVisser@akademienl.social,Ronald Visser,https://akademienl.social/@RonaldVisser
+@CJFrieman@aus.social,Catherine Frieman,https://aus.social/@CJFrieman
+@Kayt_MB@mastodonapp.uk,Kayt Hawkins,https://mastodonapp.uk/@Kayt_MB
+@toothFAIRy@scholar.social,Esther Plomp,https://scholar.social/@toothFAIRy
+@archaeorowe@mastodonapp.uk,Jack Rowe,https://mastodonapp.uk/@Archaeorowe
+@laraband@mas.to,Lara Band,https://mas.to/@laraband
+@BlckheathHopper@mastodon.scot,Jeremy Huggett,https://mastodon.scot/@BlckheathHopper
+@UllaMR@mastodon.social,Ulla Rajala,https://mastodon.social/@UllaMR
+@geoffreymsmith@fediscience.org,Dr Geoff M Smith,https://fediscience.org/@geoffreymsmith
+@GRSchug@mas.to,Gwen Robbins Schug,https://mas.to/@GRSchug
+@EddieCStewart@mastodon.scot,Edward Stewart,https://mastodon.scot/@EddieCStewart
+@natashareynolds@mastodon.ie,Tash Reynolds,https://mastodon.ie/@natashareynolds
+@FlintDibble@fediscience.org,Flint Dibble,https://fediscience.org/web/@FlintDibble
+@aidanosullivan@mastodon.ie,Aidan OSullivan,https://mastodon.ie/web/@AidanOSullivan
+@ArchaeologyTony@c.im,Tony Howe,https://c.im/@ArchaeologyTony
+@killgrove@mastodon.social,Kristina Killgrove,https://mastodon.social/@killgrove
+@aejolene@octodon.social,Jolene Smith,https://octodon.social/@aejolene
+@ArchAce@scicomm.xyz,Asa Randall,https://scicomm.xyz/web/@ArchAce
+@jens2fo@mastodon.social,Jens Notroff,https://mastodon.social/@jens2go
+@ajatnuvuk@fediscience.org,Anne M. Jensen,https://fediscience.org/@ajatnuvuk
+@HannahFluck@Mas.to,Hannah Fluck,https://mas.to/@HannahFluck
+@KCNolanINDelCo@mastodon.online,Kevin C. Nolan Ph.D.,https://mastodon.online/@KCNolanINDelCo
+@GraveyardArch@mas.to,Robyn L,https://mas.to/@GraveyardArch
+@andrea@mapstodon.space,Andrea Titolo,https://mapstodon.space/@andrea
+@ladyofvix@jorts.horse,ladyofvix,https://jorts.horse/@ladyofvix
+@JayTStock@mstdn.science,Jay T. Stock,https://mstdn.science/web/@JayTStock
+@IainArchaeol@scholar.social,Dr Iain Davidson,https://scholar.social/@IainArchaeol
+@ninawillburger@social.anoxinon.de,Nina Willburger,https://social.anoxinon.de/@ninawillburger
+@chaco_arch@scholar.social,Michelle Turner,https://scholar.social/web/@chaco_arch
+@spon@ecoevo.social,Matt Sponheimer,https://ecoevo.social/@spon
+@ArchaeoBasti@mastodon.online,Sebastian Hageneuer,https://mastodon.online/@ArchaeoBasti
+@catrionacooper@toot.community,Catriona Cooper,https://toot.community/web/@catrionacooper
+@sophiekniaz@mastodon.scot,Sophie Kniaz,https://mastodon.scot/@sophiekniaz
+@danielratcliffe@mastodon.scot,Daniel Ratcliffe,https://mastodon.scot/@danielratcliffe
+@diffendale@scholar.social,Dan Diffendale,https://scholar.social/web/@diffendale
+@joeroe@archaeo.social,Joe Roe,https://archaeo.social/@joeroe
+@fabienbp@sciences.re,FabienBP,https://social.sciences.re/web/@fabienbp
+@archae_delle@c.im,Adelle Bricking,https://c.im/@archae_delle
+@Cmount@madtodon.ie,Charles Mount,https://mastodon.ie/@Cmount
+@zackbatist@scholar.social,Zack Batist,https://scholar.social/@zackbatist
+@mikeheyworth@mastodon.me.uk,Mike Heyworth,https://mastodon.me.uk/web/@mikeheyworth
+@anarchaeologe@mastodon.social,Attila Stardust,https://mastodon.social/@anarchaeologe
+@Stylisharchaeologist,Andy Ward,https://mastodon.online/@Stylisharchaeologist
+@hluhman@toot.community,Dr. Hope Luhman,https://toot.community/@hluhman
+@electricarchaeo@scholar.social,Shawn Graham,https://scholar.social/web/@electricarchaeo
+@darrellRohl@scholar.social,Darrell Rohl,https://scholar.social/@darrellrohl
+@NeilJackman@mastodon.ie,Neil Jackman,https://mastodon.ie/web/@NeilJackman
+@jjconeill@mastodon.ie,John,https://mastodon.ie/@jjconeill
 @DSAArchaeology@mastodon.online,Dr. David S. Anderson,https://mastodon.online/@DSAArchaeology,Mesoamerica Public_Archaeology Pseudoarchaeology,English Spanish Yucatec Mayan
-@alveshere@mastodon.online,AJ Alveshere,https://mastodon.online/@alveshere,Ancient_DNA NF1 Early_Knowledge_Systems,English  
+@alveshere@mastodon.online,AJ Alveshere,https://mastodon.online/@alveshere,Ancient_DNA NF1 Early_Knowledge_Systems,English
 @martinatenzer@mas.to,Martina Tenzer,https://mas.to/@martinatenzer,Landscape_Archaeology QGIS NLP,German English 
-@decodingtrolls@mastodon.world,Decodingtrolls,https://mastodon.world/@decodingtrolls,Ukraine Yamnaya Indo-European,English  
-@cscott58@scholar.social,Catherine Scott,https://scholar.social/@cscott58,Anatolia Bronze_Age Digital_Archaeology,English  
+@decodingtrolls@mastodon.world,Decodingtrolls,https://mastodon.world/@decodingtrolls,Ukraine Yamnaya Indo-European,English
+@cscott58@scholar.social,Catherine Scott,https://scholar.social/@cscott58,Anatolia Bronze_Age Digital_Archaeology,English
 @severian@mastodon.uno,Marco Moderato,https://mastodon.uno/@severian,Landscape_Archaeology GIS Digital_Archaeology,English Italian French
 @WulfgarTheBard@mastodon.scot,Mike Middleton,https://mastodon.scot/@WulfgarTheBard,Scotland Data GIS,English French 
-@caeliambulator@mastodon.online,Jeremy Simmons,https://mastodon.online/@caeliambulator,Indian_Ocean Ancient_World Material_History,English  
-@ScotArchStrat@mastodonapp.uk,ScotArchStrat,https://mastodonapp.uk/@ScotArchStrat,Public_Sector Archaeology_Strategy Public_Archaeology,English  
+@caeliambulator@mastodon.online,Jeremy Simmons,https://mastodon.online/@caeliambulator,Indian_Ocean Ancient_World Material_History,English
+@ScotArchStrat@mastodonapp.uk,ScotArchStrat,https://mastodonapp.uk/@ScotArchStrat,Public_Sector Archaeology_Strategy Public_Archaeology,English
 @jonasholmjaeger@archaeo.social,Jonas Holm Jæger,https://archaeo.social/@jonasholmjaeger,Palaeoproteomics Zooarchaeology Ovicaprines,Danish English 
 @andreatitolo@archaeo.social,Andrea Titolo,https://archaeo.social/@andreatitolo,Landscape_Archaeology GIS Remote_Sensing,Italian English 
-@katepaxman@mas.to,Kate Paxman,https://mas.to/@katepaxman,Paleoethnobotany Paleoarchaeology Bioarchaeology,English  
+@katepaxman@mas.to,Kate Paxman,https://mas.to/@katepaxman,Paleoethnobotany Paleoarchaeology Bioarchaeology,English
 @stephenniem@mastodon.online,Dr. Stephennie Mulder,https://mastodon.online/@stephenniem,Islamic Medieval Ceramics,Arabic French English
-1,Bug Testing - Ignore Me,3,,
+1,Bug Testing - Ignore Me,3
