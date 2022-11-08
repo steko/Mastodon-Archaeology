@@ -107,7 +107,7 @@ function createFullCSV () {
 /**
  * Builds a form from the CSV data for people to select accounts
  *
- * @param   {Array<{ account: string, name: string, link: string, keywords: string, language: string }>}  users  The parsed CSV data
+ * @param   {Array<{ account: string, name: string, link: string, keywords: string }>}  users  The parsed CSV data
  */
 function buildUserSelectionForm (users) {
  const container = userListWrapper()
@@ -166,12 +166,6 @@ function buildUserSelectionForm (users) {
 
      const keywords = document.createTextNode("Keywords: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
      wrapper.appendChild(keywords)
-
-  if ('language' in user && 'language'.trim() !== '') {
-     wrapper.appendChild(seperator)
- 
-     const language = document.createTextNode(" , Languages: " + user.language.replaceAll(" ", ", ").replaceAll("_", " "))
-     wrapper.appendChild(language)
    }
 
    container.appendChild(wrapper)
