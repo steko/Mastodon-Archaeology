@@ -1,6 +1,7 @@
 account,name,link,keywords,language
 ---,Academic Journals,https://stark1tty.github.io/Mastodon-Archaeology/,---,---
 @aap_saaorg@fediscience.org,Advances in Archaeological Practice,https://fediscience.org/@aap_saaorg,Academic_Journal,English
+@frontiere_s_@mastodon.social,Frontière·s,https://mastodon.social/@frontiere_s_,Academic_Journal Antiquity Medieval,French English
 ---,Organisations,https://stark1tty.github.io/Mastodon-Archaeology/,---,---
 @caanlfl@akademienl.social,CAA Netherlands - Flanders,https://akademienl.social/@caanlfl,Organisation Computer_Applications Quantitative_Methods,Dutch Flemish English
 ---,Cultural Resource Management & Heritage Groups,https://stark1tty.github.io/Mastodon-Archaeology/,---,---
@@ -61,7 +62,7 @@ account,name,link,keywords,language
 @danielratcliffe@mastodon.scot,Daniel Ratcliffe,https://mastodon.scot/@danielratcliffe,,
 @diffendale@scholar.social,Dan Diffendale,https://scholar.social/web/@diffendale,,
 @joeroe@archaeo.social,Joe Roe,https://archaeo.social/@joeroe,,
-@fabienbp@sciences.re,FabienBP,https://social.sciences.re/@fabienbp,,
+@fabienbp@sciences.re,FabienBP,https://social.sciences.re/@fabienbp,Antiquity Reception_of_Antiquity Iconography,French English Italian
 @archae_delle@c.im,Adelle Bricking,https://c.im/@archae_delle,,
 @Cmount@madtodon.ie,Charles Mount,https://mastodon.ie/@Cmount,,
 @zackbatist@scholar.social,Zack Batist,https://scholar.social/@zackbatist,,
@@ -86,3 +87,17 @@ account,name,link,keywords,language
 @andreatitolo@archaeo.social,Andrea Titolo,https://archaeo.social/@andreatitolo,Landscape_Archaeology GIS Remote_Sensing,Italian English 
 @katepaxman@mas.to,Kate Paxman,https://mas.to/@katepaxman,Paleoethnobotany Paleoarchaeology Bioarchaeology,English
 @stephenniem@mastodon.online,Dr. Stephennie Mulder,https://mastodon.online/@stephenniem,Islamic Medieval Ceramics,Arabic French English
+@umoilanen@fediscience.org,Dr. Ulla Moilanen,https://fediscience.org/@umoilanen,Burials Iron_Age Medieval_Archaeology,English Finnish
+@izarom@mas.to,Dr Iza Romanowska,https://mas.to/@izarom,Computational_Archaeology Simulation Digital_Archaeology,English 
+@MatthewCollins@mastodon.socisl,Matthew Collins ,https://mastodont.social/@MatthewCollins,Proteomics Biomolecular_Modelling,English 
+@Dr_ClaireH@eldritch.cafe,Dr Claire Harris,https://eldritch.cafe/web/@Dr_ClaireH,Community_Archaeology Thames Palaeolithic,English 
+@barneyharris@sciences.social ,Barney Harris,https://sciences.social/web/@barneyharris,Landscape Prehistory Computational,English 
+@theoniongoddess@tooot.im ,Gali Jaffe ,https://tooot.im/@theoniongoddess,Europe Gender Bronze_Age ,English Hebrew 
+@oliverdietrich@mastodon.social,Dr. Oliver Dietrich,https://mastodon.social/@oliverdietrich,Prehistory Bronze_Age Neolithic,German English Romanian
+@scotthaddow@archaeo.social,Scott D. Haddow,https://archaeo.social/@scotthaddow,Bioarchaeology Funerary_Archaeology Digital_Archaeology,English
+@penforeman@mastodonapp.uk,Penelope Foreman,https://mastodonapp.uk/web/@penforeman,Industrial_Heritage Community_Archaeology EDI,English Welsh
+@mattyhari@qoto.org,Matasha Mazis,https://qoto.org/web/accounts/829309,Archaeometallurgy Near_East,English German Greek
+@angie0714@m.cmx.im,ShengSheng,https://m.cmx.im/@angie0714,Computer_Science Artificial_Intelligence Social_Science,English Chinese
+@Arkeologen@mastodon.nu,The Archaeologist,https://mastodon.nu/@Arkeologen,Landscape_Acheology GIS Cultural_Heritage_Management ,English Swedish
+@LeMoustier@mstdn.science,Dr Rebecca Wragg Sykes,https://mstdn.science/web/@LeMoustier,Palaeolithic Neanderthal Prehistory,English French
+@Archaeostratego@mastodon.online,Pablo Carrasco Gómez ,https://mastodon.social/@archaeostratego,Conflict_Archaeology Historical_Archaeology Military_History,Spanish English
