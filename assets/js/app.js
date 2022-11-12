@@ -167,12 +167,12 @@ function buildUserSelectionForm (users) {
      const keywords = document.createTextNode("Keywords: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
      wrapper.appendChild(keywords)
    }
-   
-   if ('language' in user && 'language'.trim() !== '') { //checks if the row has a cell "language" and it is not empty
-    wrapper.appendChild.createTextNode(" – ") //adds – to seperate language from keywords
-    const language = document.createTextNode("Language(s): " + user.language.trim()) // creates a text element for the language
-    wrapper.appendChild(language) // adds this text-element to the checkbox element printed to the webpage
-   }
+
+//  if ('language' in user && 'language'.trim() !== '') { //checks if the row has a cell "language" and it is not empty
+//    wrapper.appendChild.createTextNode(" – ") //adds – to seperate language from keywords
+//    const language = document.createTextNode("Language(s): " + user.language.trim()) // creates a text element for the language
+//    wrapper.appendChild(language) // adds this text-element to the checkbox element printed to the webpage
+//   }
    
    container.appendChild(wrapper)
   }
