@@ -174,7 +174,7 @@ function buildUserSelectionForm (users) {
      wrapper.appendChild(seperator)
 
      const keywords = document.createTextNode("Languages: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
-     wrapper.appendChild(keywords)
+     wrapper.appendChild(language)
 
    container.appendChild(wrapper)
   }
