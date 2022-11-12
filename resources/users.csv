@@ -14,7 +14,7 @@ account,name,link,keywords,language
 @minetopcubasi@mstdn.social,Mine Topcubasi,https://mstdn.social/@minetopcubasi,Architecture_Heritage Urban,English Turkish German
 @OAS@mastodon.scot,Orkney Archaeology Society,https://fediscience.org/web/@OAS@mastodon.scot,United_Kingdom Orkney Community_Archaeology,English
 •••••••••••••••••••••,Individuals,https://stark1tty.github.io/Mastodon-Archaeology/,Individuals •••••••••••••••••••••,•
-@NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,Geoarchaeology Palaeoecology Peatlands,English
+@NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,Geoarchaeology Palaeoecology Peatlands Digital_Archaeology Theory,English
 @josh@fediscience.org,Josh Wells,https://fediscience.org/@josh,Big_Data Open_Science Archaeoinformatics_Ethics,English
 @birgittahoffmann@mastodon.social,Dr. Birgitta Hoffmann,https://mastodon.social/@birgittahoffmann,,
 @anthroyeti@scicomm.xyz,Edward Gonzalez-Tennant PhD,https://scicomm.xyz/@anthroyeti,Historical_Archaeology Public_Archaeology Digital_Archaeology,English
@@ -42,7 +42,7 @@ account,name,link,keywords,language
 @BlckheathHopper@mastodon.scot,Jeremy Huggett,https://mastodon.scot/@BlckheathHopper,Digital_Archaeology Digital_Knowledge Digital_Theory,English
 @UllaMR@mastodon.social,Ulla Rajala,https://mastodon.social/@UllaMR,Archaeology History Classics,English Finnish
 @geoffreymsmith@fediscience.org,Dr Geoff M Smith,https://fediscience.org/@geoffreymsmith,,
-@GRSchug@mas.to,Gwen Robbins Schug,https://mas.to/@GRSchug,,
+@GRSchug@mas.to,Gwen Robbins Schug,https://mas.to/@GRSchug,Bioarchaeology Climate_Change Epidemic_Diseases,English
 @EddieCStewart@mastodon.scot,Edward Stewart,https://mastodon.scot/@EddieCStewart,,
 @natashareynolds@mastodon.ie,Tash Reynolds,https://mastodon.ie/@natashareynolds,Upper_Palaeolithic Lithics Europe,English French Russian
 @aidanosullivan@mastodon.ie,Aidan OSullivan,https://mastodon.ie/web/@AidanOSullivan,Medieval Ireland Houses,English
@@ -127,4 +127,5 @@ account,name,link,keywords,language
 @itsinmybones@fediscience.org,Carly Monks,https://fediscience.org/@itsinmybones,Zooarchaeology Australian_Archaeology Holocene,English
 @MastArchaeo@mastodon.scot,MastArchaeo,https://mastodon.scot/@MastArchaeo,Neolithic Prehistory Textiles ,English
 @archaeohlrau@mastodon.social,René Ohlrau,https://mastodon.social/@archaeohlrau,Prehistory Trypillia Palaeodemography,German English 
- @tileman@mastodon.social,Dr Phil Mills,https://mastodon.social/@tileman,Roman_Ceramics Roman_Economy Urban_Form,English
+@tileman@mastodon.social,Dr Phil Mills,https://mastodon.social/@tileman,Roman_Ceramics Roman_Economy Urban_Form,English
+@juliahurley@mstdn.social,Julia Hurley,https://mstdn.social/@juliahurley,Digital_Archaeology Foodways Iron_Age Roman_Britain,English French Spanish
