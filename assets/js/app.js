@@ -167,6 +167,9 @@ function buildUserSelectionForm (users) {
      const keywords = document.createTextNode("Keywords: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
      wrapper.appendChild(keywords)
    }
+
+   container.appendChild(wrapper)
+  }
 }
 
 
