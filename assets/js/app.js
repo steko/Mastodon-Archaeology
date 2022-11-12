@@ -168,8 +168,6 @@ function buildUserSelectionForm (users) {
      wrapper.appendChild(keywords)
    }
    
-   const seperator = document.createTextNode(" – ")
-
    if ('language' in user && 'language'.trim() !== '') { //checks if the row has a cell "language" and it is not empty
   wrapper.appendChild.createTextNode(" – ") //adds – to seperate language from keywords
   const language = document.createTextNode("Language(s): " + user.language.trim()) // creates a text element for the language
