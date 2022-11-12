@@ -173,7 +173,7 @@ function buildUserSelectionForm (users) {
    if ('language' in user && 'language'.trim() !== '') {
      wrapper.appendChild(seperator)
 
-     const keywords = document.createTextNode("Languages: " + user.language.replaceAll(" ", ", ").replaceAll("_", " "))
+     const language = document.createTextNode("Languages: " + user.language.replaceAll(" ", ", ").replaceAll("_", " "))
      wrapper.appendChild(language)
 
    container.appendChild(wrapper)
