@@ -167,6 +167,14 @@ function buildUserSelectionForm (users) {
      const keywords = document.createTextNode("Keywords: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
      wrapper.appendChild(keywords)
    }
+   
+   const seperator = document.createTextNode(" – ")
+
+   if ('language' in user && 'language'.trim() !== '') {
+     wrapper.appendChild(seperator)
+
+     const keywords = document.createTextNode("Languages: " + user.keywords.replaceAll(" ", ", ").replaceAll("_", " "))
+     wrapper.appendChild(keywords)
 
    container.appendChild(wrapper)
   }
