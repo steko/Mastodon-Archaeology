@@ -168,6 +168,12 @@ function buildUserSelectionForm (users) {
      wrapper.appendChild(keywords)
    }
   
+     if ('language' in user && 'language'.trim() !== '') { //checks if the row has a cell "language" and it is not empty
+       wrapper.appendChild.createTextNode(" – ") //adds – to seperate language from keywords
+       const language = document.createTextNode("Language(s): " + user.language.trim()) // creates a text element for the language
+       wrapper.appendChild(language) // adds this text-element to the checkbox element printed to the webpage
+   }
+   
    container.appendChild(wrapper)
   }
 }
@@ -205,7 +211,7 @@ function generateCSV () {
   link.click() // This will download the data file named `CSV_DOWNLOAD_NAME`.
 
   setTimeout(function () { link.parentElement.removeChild(link) }, 60_000) // After a minute, clean up the link
-}
+})}
 
 /**
  * Displays a simple copy-and-paste list from the CSV data
