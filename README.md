@@ -10,7 +10,7 @@ Users can sign up via: https://forms.gle/QdsUDAZfYZ6aTzYQ9 (preferred) or by ema
 
 A work in progress adapted from: https://github.com/trutzig89182/Mastodon-Sociologists
 
-To view and join other academic communities, please visit: https://github.com/nathanlesage/academics-on-mastodon
+To view and join other academic communities, please visit: [https://github.com/nathanlesage/academics-on-mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
 
 If you are looking for a Mastodon instance for archaeologists, historians and lovers of all things ancient, visit: https://archaeo.social
 
