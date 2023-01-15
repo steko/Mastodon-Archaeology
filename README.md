@@ -4,7 +4,7 @@
 
 This repository provides a most simple web app that helps to bulk follow archaeologists on the FOSS microblogging service Mastodon. 
 
-Click here to access the list: https://stark1tty.github.io/Mastodon-Archaeology/
+Click here to access the list: https://stark1tty.github.io/Mastodon-Archaeology/ (Also available via: https://find.sciences.social/)
 
 Users can sign up via: https://forms.gle/QdsUDAZfYZ6aTzYQ9 (preferred) or by emailing nika.shilobod@plymouth.ac.uk.
 
