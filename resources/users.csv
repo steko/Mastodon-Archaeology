@@ -15,6 +15,7 @@ account,name,link,keywords,language
 @OperationNightingale@mastodonapp.uk,Op Nightingale,https://mastodonapp.uk/@OperationNightingale,Veterans Community_Archaeology Military Wellbeing,English
 @CAA_int@archaeo.social,CAA International,https://archaeo.social/@CAA_int,Digital_Archaeology Mathematics Computer_Science,English
 @RomanArchaeo@archaeology.social,Association for Roman Archaeology,https://archaeology.social/@RomanArchaeo,Archaeology History Rome,English
+@CANI@archaeo.social,Classical Association in Northern Ireland,https://archaeo.social/@CANI,Classical_Studies Latin Medieval,English
 •••••,Departments & Institutions,https://stark1tty.github.io/Mastodon-Archaeology/,Departments_&_Institutions •••••,Departments •••••
 @arf_ucb@archaeo.social,Archaeo Research Facility at UCB,https://archaeo.social/@arf_ucb,Heritage Historic Prehistoric,English
 @ExperimentalArchaeology@mastodon.green,Centre for Experimental Archaeology & Material Culture (CEAMC) at University College Dublin,https://mastodon.green/@ExperimentalArchaeology,Experimental_Archaeology Ireland,English
@@ -47,6 +48,9 @@ account,name,link,keywords,language
 @NOSAS@mastodon.scot,North of Scotland Archaeological Society,https://mastodon.scot/@NOSAS,Heritage Scotland Community_Archaeology,English
 @OAS@mastodon.scot,Orkney Archaeology Society,https://fediscience.org/web/@OAS@mastodon.scot,United_Kingdom Orkney Community_Archaeology,English
 @SWACS@archaeo.social,Save Wemyss Ancient Caves Society,https://archaeo.social/@SWACS,Heritage Caves Prehistory,English
+•••••,Bots,https://stark1tty.github.io/Mastodon-Archaeology/,Bots •••••,Bots •••••
+@archpaperscode@archaeo.social,archpaperscode,https://archaeo.social/@archpaperscode,R Academic_Journals Bot,English
+@eartharxiv@qoto.org,Earth ArXiv,https://qoto.org/@eartharxiv,Preprints Academic_Journals Geoscience,English
 •••••,Other,https://stark1tty.github.io/Mastodon-Archaeology/,Other •••••,Other •••••
 @Rchaeology@archaeo.social,Rchaeology Community,https://archaeo.social/@Rchaeology,R Open_Science Statistics,English
 @pasthorizons@mastodon.social,Past Horizons,https://mastodon.social/@pasthorizons,Store Tools Field_Archaeology,English
@@ -57,7 +61,6 @@ account,name,link,keywords,language
 @BlackTrowel@archaeo.social,Black Trowel Collective,https://archaeo.social/@BlackTrowel,Anarchy Political_Science Mutual_Aid,English
 @SAPIENS_org@mastodon.world,SAPIENS Magazine,https://mastodon.world/@SAPIENS_org,Anthropology Digital_Media Hominids,English 
 @oldmapgallery@sciencemastodon.com,The Old Map Gallery,https://sciencemastodon.com/@oldmapgallery,Historical_Maps Heritage Geography,English
-@archpaperscode@archaeo.social,archpaperscode,https://archaeo.social/@archpaperscode,R Academic_Journals Bot,English
 •••••,Individuals,https://stark1tty.github.io/Mastodon-Archaeology/,Individuals •••••,Individuals •••••
 @NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,Geoarchaeology Palaeoecology Peatlands Digital_Archaeology Theory,English Danish
 @josh@fediscience.org,Josh Wells,https://fediscience.org/@josh,Big_Data Open_Science Archaeoinformatics_Ethics,English
