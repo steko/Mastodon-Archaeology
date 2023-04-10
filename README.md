@@ -18,4 +18,4 @@ If you are looking for a Mastodon instance for archaeologists, historians and lo
 
 # License
 
-The repository can be used under GNU General Public Licese v3, except the /resources/sociologists.csv-file, which can only be used with explicit permission by the authors.
+The repository can be used under GNU General Public Licese v3, except the /resources/users.csv-file, which can only be used with explicit permission by the authors.
