@@ -1,6 +1,6 @@
-# Sociologists on Mastodon
+# Cartographers on Mastodon
 
-This repository provides a most simple web app that helps to bulk follow sociologists on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon settings, in order to follow a list of accounts at once.
+This repository provides a most simple web app that helps to bulk follow cartographers on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon settings, in order to follow a list of accounts at once.
 
 ## Can I use this for my discipline/peer group?
 
@@ -32,7 +32,7 @@ In order to avoid malformed CSV files there is a test that checks that every row
 The page `tootformat.html` renders all accounts from the CSV file as “account (name)”. This offers you a more readable format, which you can copy to your posts in Mastodon. It can be reached if you add `/tootformat.html` to your webpage’s url.
 
 ### Add users
-This is still experimental. Will add a page that let’s users generate their own entry and send it via email to make adding new users simpler and more reliable. It will also include a simple way of verifying that the person adding the account is it’s owner. I am working on it here: https://github.com/trutzig89182/AoM-add-user and want to include it later.
+https://github.com/mapperfr/carto-masto-add-user
 
 ### metatags & preview image
 Metatags help you to change how the webpage is previewed in social media. You can find them in the `<head>` of `index.html`. Adapt them to your pages name etc.
